@@ -15,5 +15,5 @@
    "manifest_version": 2,
    "name": "ThermoScan",
    "permissions": [ "activeTab", "downloads", "tabs", "https://folding.biofold.org/*" ],
-   "version": "0.0.0.1."
+   "version": "0.0.0.1"
 }
