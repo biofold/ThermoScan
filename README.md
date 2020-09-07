@@ -1,4 +1,5 @@
-Chrome Extension for Accessing ThermoScan WebServer
+# Chrome Extension for Accessing ThermoScan WebServer
 
+## Emidio Capriotti - University of Bologna (Italy)
 
 
