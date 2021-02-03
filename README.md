@@ -1,5 +1,6 @@
 # ThermoScan Code and Chrome Extension
 Emidio Capriotti - University of Bologna (Italy)
+
 Contact: emidio.capriotti@unibo.it
 
  - **thermoscan.py**: code can be downloaded and run locally for scanning PMC articles.
