@@ -7,4 +7,4 @@ Contact: emidio.capriotti@unibo.it
  - **[ThermoScan-ChromeExt.tar.gz](https://raw.githubusercontent.com/biofold/ThermoScan/master/ThermoScan-ChromeExt.tar.gz)**: compressed file contains a Chrome extension to send the content 
 of a PMC web page displayed by Google Chrome to the ThermoScan WebServer. 
 
- - **[ThermoScan WebServer](https://folding.biofold.org/thermoscan)**: runs the automatic scan on a maximum of 1,000 artciles for each job.
+ - **[ThermoScan WebServer](https://folding.biofold.org/thermoscan)**: automatic scan a maximum of 1,000 articles for each job.
