@@ -1,5 +1,12 @@
 #!/usr/bin/python
 #coding: utf-8
+# ----------------------------------------------------------------
+# ThermoScan
+# Advanced Search for Protein Thermodynamic Data
+# Emidio Capriotti, 2020.
+# Scripts are licensed under the Creative Commons by NC-SA license.
+# -----------------------------------------------------------------
+
 import sys, re, hashlib, urllib2
 from lxml.html import fromstring
 from itertools import cycle
